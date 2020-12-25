@@ -133,3 +133,4 @@ buildNumber.properties
 !/.mvn/wrapper/maven-wrapper.jar
 
 /algorithm-in-action.iml
+/.idea/
